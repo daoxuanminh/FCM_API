@@ -1,0 +1,3072 @@
+[
+  {
+    "invoice_no": "6760179bbfedc1865b9a0cb9",
+    "customer_id": "675fa06abfedc1865b9a034d",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 999,
+    "invoice_date": "2024-12-16T12:05:47.141Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "67601793bfedc1865b9a0cb7",
+    "customer_id": "675fa06abfedc1865b9a034d",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 950,
+    "invoice_date": "2024-12-16T12:05:39.241Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760178cbfedc1865b9a0cb5",
+    "customer_id": "675fa06abfedc1865b9a034d",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 1850,
+    "invoice_date": "2024-12-16T12:05:32.001Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "67601785bfedc1865b9a0cb3",
+    "customer_id": "675fa06abfedc1865b9a034d",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 750,
+    "invoice_date": "2024-12-16T12:05:25.604Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760177fbfedc1865b9a0cb1",
+    "customer_id": "675fa06abfedc1865b9a034d",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 750,
+    "invoice_date": "2024-12-16T12:05:19.291Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "67601765bfedc1865b9a0ca4",
+    "customer_id": "675fa06abfedc1865b9a034d",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 1199,
+    "invoice_date": "2024-12-16T12:04:53.291Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760175dbfedc1865b9a0ca2",
+    "customer_id": "675fa06abfedc1865b9a034d",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 1850,
+    "invoice_date": "2024-12-16T12:04:45.337Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "67601756bfedc1865b9a0ca0",
+    "customer_id": "675fa06abfedc1865b9a034d",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 1850,
+    "invoice_date": "2024-12-16T12:04:38.892Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "67601751bfedc1865b9a0c9e",
+    "customer_id": "675fa06abfedc1865b9a034d",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 1199,
+    "invoice_date": "2024-12-16T12:04:33.286Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760174bbfedc1865b9a0c9c",
+    "customer_id": "675fa06abfedc1865b9a034d",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 1850,
+    "invoice_date": "2024-12-16T12:04:27.298Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "67601637bfedc1865b9a0c7a",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Men",
+    "category": "Footwear",
+    "price": 1585,
+    "invoice_date": "2024-12-16T11:59:51.095Z",
+    "shopping_mall": "Lee Cooper",
+    "age": 18
+  },
+  {
+    "invoice_no": "67601637bfedc1865b9a0c7a",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Women",
+    "category": "Footwear",
+    "price": 1495,
+    "invoice_date": "2024-12-16T11:59:51.095Z",
+    "shopping_mall": "Catwalk",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760160dbfedc1865b9a0c68",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1399,
+    "invoice_date": "2024-12-16T11:59:09.829Z",
+    "shopping_mall": "Lee",
+    "age": 18
+  },
+  {
+    "invoice_no": "67601607bfedc1865b9a0c66",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1099,
+    "invoice_date": "2024-12-16T11:59:03.033Z",
+    "shopping_mall": "DENI YO",
+    "age": 18
+  },
+  {
+    "invoice_no": "67601601bfedc1865b9a0c64",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1099,
+    "invoice_date": "2024-12-16T11:58:57.048Z",
+    "shopping_mall": "DENI YO",
+    "age": 18
+  },
+  {
+    "invoice_no": "676015fbbfedc1865b9a0c62",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1399,
+    "invoice_date": "2024-12-16T11:58:51.400Z",
+    "shopping_mall": "Lee",
+    "age": 18
+  },
+  {
+    "invoice_no": "676015f4bfedc1865b9a0c60",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1399,
+    "invoice_date": "2024-12-16T11:58:44.009Z",
+    "shopping_mall": "Lee",
+    "age": 18
+  },
+  {
+    "invoice_no": "676015ebbfedc1865b9a0c5e",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 909,
+    "invoice_date": "2024-12-16T11:58:35.724Z",
+    "shopping_mall": "Black coffee",
+    "age": 18
+  },
+  {
+    "invoice_no": "676015e4bfedc1865b9a0c5c",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 2999,
+    "invoice_date": "2024-12-16T11:58:28.824Z",
+    "shopping_mall": "s.Oliver",
+    "age": 18
+  },
+  {
+    "invoice_no": "676015e4bfedc1865b9a0c5c",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1799,
+    "invoice_date": "2024-12-16T11:58:28.824Z",
+    "shopping_mall": "s.Oliver",
+    "age": 18
+  },
+  {
+    "invoice_no": "676015c4bfedc1865b9a0c4f",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 2399,
+    "invoice_date": "2024-12-16T11:57:56.573Z",
+    "shopping_mall": "s.Oliver",
+    "age": 18
+  },
+  {
+    "invoice_no": "676015bcbfedc1865b9a0c4d",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1999,
+    "invoice_date": "2024-12-16T11:57:48.339Z",
+    "shopping_mall": "s.Oliver",
+    "age": 18
+  },
+  {
+    "invoice_no": "676015b5bfedc1865b9a0c4b",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1799,
+    "invoice_date": "2024-12-16T11:57:41.973Z",
+    "shopping_mall": "s.Oliver",
+    "age": 18
+  },
+  {
+    "invoice_no": "676015aebfedc1865b9a0c49",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 2399,
+    "invoice_date": "2024-12-16T11:57:34.450Z",
+    "shopping_mall": "s.Oliver",
+    "age": 18
+  },
+  {
+    "invoice_no": "676015a7bfedc1865b9a0c47",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 2399,
+    "invoice_date": "2024-12-16T11:57:27.126Z",
+    "shopping_mall": "s.Oliver",
+    "age": 18
+  },
+  {
+    "invoice_no": "67601588bfedc1865b9a0c3a",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 1099,
+    "invoice_date": "2024-12-16T11:56:56.784Z",
+    "shopping_mall": "Lee",
+    "age": 18
+  },
+  {
+    "invoice_no": "67601580bfedc1865b9a0c38",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 849,
+    "invoice_date": "2024-12-16T11:56:48.581Z",
+    "shopping_mall": "Basics",
+    "age": 18
+  },
+  {
+    "invoice_no": "67601580bfedc1865b9a0c38",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 749,
+    "invoice_date": "2024-12-16T11:56:48.581Z",
+    "shopping_mall": "Basics",
+    "age": 18
+  },
+  {
+    "invoice_no": "67601578bfedc1865b9a0c36",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Men",
+    "category": "Footwear",
+    "price": 5895,
+    "invoice_date": "2024-12-16T11:56:40.944Z",
+    "shopping_mall": "Quiksilver",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760156ebfedc1865b9a0c34",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 799,
+    "invoice_date": "2024-12-16T11:56:30.648Z",
+    "shopping_mall": "Basics",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760156ebfedc1865b9a0c34",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 849,
+    "invoice_date": "2024-12-16T11:56:30.648Z",
+    "shopping_mall": "Basics",
+    "age": 18
+  },
+  {
+    "invoice_no": "67601566bfedc1865b9a0c32",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1199,
+    "invoice_date": "2024-12-16T11:56:22.784Z",
+    "shopping_mall": "Basics",
+    "age": 18
+  },
+  {
+    "invoice_no": "67601566bfedc1865b9a0c32",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 909,
+    "invoice_date": "2024-12-16T11:56:22.784Z",
+    "shopping_mall": "HIGHLANDER",
+    "age": 18
+  },
+  {
+    "invoice_no": "67601547bfedc1865b9a0c27",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1999,
+    "invoice_date": "2024-12-16T11:55:51.042Z",
+    "shopping_mall": "Manchester United",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760153fbfedc1865b9a0c25",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1499,
+    "invoice_date": "2024-12-16T11:55:43.377Z",
+    "shopping_mall": "Manchester United",
+    "age": 18
+  },
+  {
+    "invoice_no": "67601537bfedc1865b9a0c23",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 699,
+    "invoice_date": "2024-12-16T11:55:35.911Z",
+    "shopping_mall": "Regent Polo Club",
+    "age": 18
+  },
+  {
+    "invoice_no": "67601530bfedc1865b9a0c21",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 749,
+    "invoice_date": "2024-12-16T11:55:28.340Z",
+    "shopping_mall": "Basics",
+    "age": 18
+  },
+  {
+    "invoice_no": "67601510bfedc1865b9a0c12",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1039,
+    "invoice_date": "2024-12-16T11:54:56.521Z",
+    "shopping_mall": "LOCOMOTIVE",
+    "age": 18
+  },
+  {
+    "invoice_no": "67601509bfedc1865b9a0c10",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1499,
+    "invoice_date": "2024-12-16T11:54:49.179Z",
+    "shopping_mall": "Manchester United",
+    "age": 18
+  },
+  {
+    "invoice_no": "67601502bfedc1865b9a0c0e",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Women",
+    "category": "Footwear",
+    "price": 4295,
+    "invoice_date": "2024-12-16T11:54:42.544Z",
+    "shopping_mall": "roxy",
+    "age": 18
+  },
+  {
+    "invoice_no": "676014fcbfedc1865b9a0c0c",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Women",
+    "category": "Footwear",
+    "price": 3895,
+    "invoice_date": "2024-12-16T11:54:36.022Z",
+    "shopping_mall": "roxy",
+    "age": 18
+  },
+  {
+    "invoice_no": "676014f3bfedc1865b9a0c0a",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 3595,
+    "invoice_date": "2024-12-16T11:54:27.700Z",
+    "shopping_mall": "roxy",
+    "age": 18
+  },
+  {
+    "invoice_no": "676014edbfedc1865b9a0c08",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 899,
+    "invoice_date": "2024-12-16T11:54:21.087Z",
+    "shopping_mall": "Basics",
+    "age": 18
+  },
+  {
+    "invoice_no": "67601421bfedc1865b9a0ba1",
+    "customer_id": "675fa04ebfedc1865b9a0347",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 1499,
+    "invoice_date": "2024-12-16T11:50:57.491Z",
+    "shopping_mall": "United Colors of Benetton",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760141abfedc1865b9a0b9f",
+    "customer_id": "675fa04ebfedc1865b9a0347",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 1695,
+    "invoice_date": "2024-12-16T11:50:50.220Z",
+    "shopping_mall": "Wrangler",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760141abfedc1865b9a0b9f",
+    "customer_id": "675fa04ebfedc1865b9a0347",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 1495,
+    "invoice_date": "2024-12-16T11:50:50.220Z",
+    "shopping_mall": "Wrangler",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760140fbfedc1865b9a0b9d",
+    "customer_id": "675fa04ebfedc1865b9a0347",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 899,
+    "invoice_date": "2024-12-16T11:50:39.906Z",
+    "shopping_mall": "Jealous 21",
+    "age": 18
+  },
+  {
+    "invoice_no": "67601406bfedc1865b9a0b9b",
+    "customer_id": "675fa04ebfedc1865b9a0347",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 949,
+    "invoice_date": "2024-12-16T11:50:30.764Z",
+    "shopping_mall": "Lee",
+    "age": 18
+  },
+  {
+    "invoice_no": "67601400bfedc1865b9a0b99",
+    "customer_id": "675fa04ebfedc1865b9a0347",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 454,
+    "invoice_date": "2024-12-16T11:50:24.334Z",
+    "shopping_mall": "LOCOMOTIVE",
+    "age": 18
+  },
+  {
+    "invoice_no": "676013d3bfedc1865b9a0b7e",
+    "customer_id": "675fa04ebfedc1865b9a0347",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 2199,
+    "invoice_date": "2024-12-16T11:49:39.230Z",
+    "shopping_mall": "SPYKAR",
+    "age": 18
+  },
+  {
+    "invoice_no": "676013cebfedc1865b9a0b7c",
+    "customer_id": "675fa04ebfedc1865b9a0347",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1199,
+    "invoice_date": "2024-12-16T11:49:34.160Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "676013c7bfedc1865b9a0b7a",
+    "customer_id": "675fa04ebfedc1865b9a0347",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 899,
+    "invoice_date": "2024-12-16T11:49:27.384Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "676013c0bfedc1865b9a0b78",
+    "customer_id": "675fa04ebfedc1865b9a0347",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 799,
+    "invoice_date": "2024-12-16T11:49:20.798Z",
+    "shopping_mall": "Lee",
+    "age": 18
+  },
+  {
+    "invoice_no": "676013b9bfedc1865b9a0b76",
+    "customer_id": "675fa04ebfedc1865b9a0347",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 699,
+    "invoice_date": "2024-12-16T11:49:13.861Z",
+    "shopping_mall": "Lee",
+    "age": 18
+  },
+  {
+    "invoice_no": "676013b3bfedc1865b9a0b74",
+    "customer_id": "675fa04ebfedc1865b9a0347",
+    "gender": "Men",
+    "category": "Footwear",
+    "price": 2295,
+    "invoice_date": "2024-12-16T11:49:07.123Z",
+    "shopping_mall": "Red Tape",
+    "age": 18
+  },
+  {
+    "invoice_no": "676013acbfedc1865b9a0b72",
+    "customer_id": "675fa04ebfedc1865b9a0347",
+    "gender": "Men",
+    "category": "Footwear",
+    "price": 1799,
+    "invoice_date": "2024-12-16T11:49:00.283Z",
+    "shopping_mall": "FILA",
+    "age": 18
+  },
+  {
+    "invoice_no": "676013a4bfedc1865b9a0b70",
+    "customer_id": "675fa04ebfedc1865b9a0347",
+    "gender": "Men",
+    "category": "Footwear",
+    "price": 2295,
+    "invoice_date": "2024-12-16T11:48:52.308Z",
+    "shopping_mall": "Red Tape",
+    "age": 18
+  },
+  {
+    "invoice_no": "67601382bfedc1865b9a0b5f",
+    "customer_id": "675fa04ebfedc1865b9a0347",
+    "gender": "Men",
+    "category": "Footwear",
+    "price": 2499,
+    "invoice_date": "2024-12-16T11:48:18.410Z",
+    "shopping_mall": "FILA",
+    "age": 18
+  },
+  {
+    "invoice_no": "67601378bfedc1865b9a0b5d",
+    "customer_id": "675fa04ebfedc1865b9a0347",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1099,
+    "invoice_date": "2024-12-16T11:48:08.998Z",
+    "shopping_mall": "Genesis",
+    "age": 18
+  },
+  {
+    "invoice_no": "67601378bfedc1865b9a0b5d",
+    "customer_id": "675fa04ebfedc1865b9a0347",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1299,
+    "invoice_date": "2024-12-16T11:48:08.998Z",
+    "shopping_mall": "Genesis",
+    "age": 18
+  },
+  {
+    "invoice_no": "67601371bfedc1865b9a0b5b",
+    "customer_id": "675fa04ebfedc1865b9a0347",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 699,
+    "invoice_date": "2024-12-16T11:48:01.195Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "67601369bfedc1865b9a0b59",
+    "customer_id": "675fa04ebfedc1865b9a0347",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 699,
+    "invoice_date": "2024-12-16T11:47:53.414Z",
+    "shopping_mall": "DENI YO",
+    "age": 18
+  },
+  {
+    "invoice_no": "67601348bfedc1865b9a0b48",
+    "customer_id": "675fa04ebfedc1865b9a0347",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1099,
+    "invoice_date": "2024-12-16T11:47:20.703Z",
+    "shopping_mall": "DENI YO",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760133bbfedc1865b9a0b46",
+    "customer_id": "675fa04ebfedc1865b9a0347",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 2399,
+    "invoice_date": "2024-12-16T11:47:07.700Z",
+    "shopping_mall": "s.Oliver",
+    "age": 18
+  },
+  {
+    "invoice_no": "67601332bfedc1865b9a0b44",
+    "customer_id": "675fa04ebfedc1865b9a0347",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 2399,
+    "invoice_date": "2024-12-16T11:46:58.413Z",
+    "shopping_mall": "s.Oliver",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760132bbfedc1865b9a0b42",
+    "customer_id": "675fa04ebfedc1865b9a0347",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1799,
+    "invoice_date": "2024-12-16T11:46:51.550Z",
+    "shopping_mall": "s.Oliver",
+    "age": 18
+  },
+  {
+    "invoice_no": "67601306bfedc1865b9a0b2d",
+    "customer_id": "675fa04ebfedc1865b9a0347",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 2399,
+    "invoice_date": "2024-12-16T11:46:14.189Z",
+    "shopping_mall": "s.Oliver",
+    "age": 18
+  },
+  {
+    "invoice_no": "67601306bfedc1865b9a0b2d",
+    "customer_id": "675fa04ebfedc1865b9a0347",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1799,
+    "invoice_date": "2024-12-16T11:46:14.189Z",
+    "shopping_mall": "s.Oliver",
+    "age": 18
+  },
+  {
+    "invoice_no": "676012fcbfedc1865b9a0b2b",
+    "customer_id": "675fa04ebfedc1865b9a0347",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 2399,
+    "invoice_date": "2024-12-16T11:46:04.774Z",
+    "shopping_mall": "s.Oliver",
+    "age": 18
+  },
+  {
+    "invoice_no": "676012f5bfedc1865b9a0b29",
+    "customer_id": "675fa04ebfedc1865b9a0347",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 1599,
+    "invoice_date": "2024-12-16T11:45:57.788Z",
+    "shopping_mall": "s.Oliver",
+    "age": 18
+  },
+  {
+    "invoice_no": "676012efbfedc1865b9a0b27",
+    "customer_id": "675fa04ebfedc1865b9a0347",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 1599,
+    "invoice_date": "2024-12-16T11:45:51.319Z",
+    "shopping_mall": "s.Oliver",
+    "age": 18
+  },
+  {
+    "invoice_no": "676012e7bfedc1865b9a0b25",
+    "customer_id": "675fa04ebfedc1865b9a0347",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 1599,
+    "invoice_date": "2024-12-16T11:45:43.602Z",
+    "shopping_mall": "s.Oliver",
+    "age": 18
+  },
+  {
+    "invoice_no": "676012dfbfedc1865b9a0b23",
+    "customer_id": "675fa04ebfedc1865b9a0347",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 1599,
+    "invoice_date": "2024-12-16T11:45:35.026Z",
+    "shopping_mall": "s.Oliver",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760087ebfedc1865b9a0aaa",
+    "customer_id": "675fa041bfedc1865b9a0344",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 519,
+    "invoice_date": "2024-12-16T11:01:18.401Z",
+    "shopping_mall": "LOCOMOTIVE",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600875bfedc1865b9a0aa8",
+    "customer_id": "675fa041bfedc1865b9a0344",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 584,
+    "invoice_date": "2024-12-16T11:01:09.943Z",
+    "shopping_mall": "LOCOMOTIVE",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760086ebfedc1865b9a0aa6",
+    "customer_id": "675fa041bfedc1865b9a0344",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 799,
+    "invoice_date": "2024-12-16T11:01:02.929Z",
+    "shopping_mall": "Basics",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600865bfedc1865b9a0aa4",
+    "customer_id": "675fa041bfedc1865b9a0344",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 1295,
+    "invoice_date": "2024-12-16T11:00:53.347Z",
+    "shopping_mall": "roxy",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600865bfedc1865b9a0aa4",
+    "customer_id": "675fa041bfedc1865b9a0344",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 519,
+    "invoice_date": "2024-12-16T11:00:53.347Z",
+    "shopping_mall": "LOCOMOTIVE",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760085dbfedc1865b9a0aa2",
+    "customer_id": "675fa041bfedc1865b9a0344",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1099,
+    "invoice_date": "2024-12-16T11:00:45.522Z",
+    "shopping_mall": "Basics",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760085dbfedc1865b9a0aa2",
+    "customer_id": "675fa041bfedc1865b9a0344",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 1895,
+    "invoice_date": "2024-12-16T11:00:45.522Z",
+    "shopping_mall": "roxy",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600855bfedc1865b9a0aa0",
+    "customer_id": "675fa041bfedc1865b9a0344",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 895,
+    "invoice_date": "2024-12-16T11:00:37.752Z",
+    "shopping_mall": "roxy",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760084ebfedc1865b9a0a9e",
+    "customer_id": "675fa041bfedc1865b9a0344",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 1595,
+    "invoice_date": "2024-12-16T11:00:30.266Z",
+    "shopping_mall": "roxy",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600846bfedc1865b9a0a9c",
+    "customer_id": "675fa041bfedc1865b9a0344",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 2296,
+    "invoice_date": "2024-12-16T11:00:22.605Z",
+    "shopping_mall": "roxy",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600846bfedc1865b9a0a9c",
+    "customer_id": "675fa041bfedc1865b9a0344",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 2295,
+    "invoice_date": "2024-12-16T11:00:22.605Z",
+    "shopping_mall": "roxy",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760081dbfedc1865b9a0a8c",
+    "customer_id": "675fa041bfedc1865b9a0344",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 2295,
+    "invoice_date": "2024-12-16T10:59:41.095Z",
+    "shopping_mall": "roxy",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600813bfedc1865b9a0a8a",
+    "customer_id": "675fa041bfedc1865b9a0344",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 1695,
+    "invoice_date": "2024-12-16T10:59:31.775Z",
+    "shopping_mall": "roxy",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600813bfedc1865b9a0a8a",
+    "customer_id": "675fa041bfedc1865b9a0344",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 849,
+    "invoice_date": "2024-12-16T10:59:31.775Z",
+    "shopping_mall": "Basics",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760080abfedc1865b9a0a88",
+    "customer_id": "675fa041bfedc1865b9a0344",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 2295,
+    "invoice_date": "2024-12-16T10:59:22.977Z",
+    "shopping_mall": "roxy",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600804bfedc1865b9a0a86",
+    "customer_id": "675fa041bfedc1865b9a0344",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 899,
+    "invoice_date": "2024-12-16T10:59:16.160Z",
+    "shopping_mall": "Basics",
+    "age": 18
+  },
+  {
+    "invoice_no": "676007fbbfedc1865b9a0a84",
+    "customer_id": "675fa041bfedc1865b9a0344",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 2296,
+    "invoice_date": "2024-12-16T10:59:07.221Z",
+    "shopping_mall": "roxy",
+    "age": 18
+  },
+  {
+    "invoice_no": "676007fbbfedc1865b9a0a84",
+    "customer_id": "675fa041bfedc1865b9a0344",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 1995,
+    "invoice_date": "2024-12-16T10:59:07.221Z",
+    "shopping_mall": "roxy",
+    "age": 18
+  },
+  {
+    "invoice_no": "676007f2bfedc1865b9a0a82",
+    "customer_id": "675fa041bfedc1865b9a0344",
+    "gender": "Women",
+    "category": "Footwear",
+    "price": 3295,
+    "invoice_date": "2024-12-16T10:58:58.315Z",
+    "shopping_mall": "roxy",
+    "age": 18
+  },
+  {
+    "invoice_no": "676007f2bfedc1865b9a0a82",
+    "customer_id": "675fa041bfedc1865b9a0344",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 3595,
+    "invoice_date": "2024-12-16T10:58:58.315Z",
+    "shopping_mall": "roxy",
+    "age": 18
+  },
+  {
+    "invoice_no": "676007f2bfedc1865b9a0a82",
+    "customer_id": "675fa041bfedc1865b9a0344",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 2295,
+    "invoice_date": "2024-12-16T10:58:58.315Z",
+    "shopping_mall": "roxy",
+    "age": 18
+  },
+  {
+    "invoice_no": "676007d2bfedc1865b9a0a75",
+    "customer_id": "675fa041bfedc1865b9a0344",
+    "gender": "Women",
+    "category": "Footwear",
+    "price": 4295,
+    "invoice_date": "2024-12-16T10:58:26.181Z",
+    "shopping_mall": "roxy",
+    "age": 18
+  },
+  {
+    "invoice_no": "676007cabfedc1865b9a0a73",
+    "customer_id": "675fa041bfedc1865b9a0344",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 999,
+    "invoice_date": "2024-12-16T10:58:18.677Z",
+    "shopping_mall": "Basics",
+    "age": 18
+  },
+  {
+    "invoice_no": "676007c4bfedc1865b9a0a71",
+    "customer_id": "675fa041bfedc1865b9a0344",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 849,
+    "invoice_date": "2024-12-16T10:58:12.141Z",
+    "shopping_mall": "Basics",
+    "age": 18
+  },
+  {
+    "invoice_no": "676007bdbfedc1865b9a0a6f",
+    "customer_id": "675fa041bfedc1865b9a0344",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 3595,
+    "invoice_date": "2024-12-16T10:58:05.731Z",
+    "shopping_mall": "roxy",
+    "age": 18
+  },
+  {
+    "invoice_no": "676007b5bfedc1865b9a0a6d",
+    "customer_id": "675fa041bfedc1865b9a0344",
+    "gender": "Women",
+    "category": "Footwear",
+    "price": 3895,
+    "invoice_date": "2024-12-16T10:57:57.482Z",
+    "shopping_mall": "roxy",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600797bfedc1865b9a0a60",
+    "customer_id": "675fa041bfedc1865b9a0344",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 849,
+    "invoice_date": "2024-12-16T10:57:27.636Z",
+    "shopping_mall": "Basics",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760078fbfedc1865b9a0a5e",
+    "customer_id": "675fa041bfedc1865b9a0344",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1199,
+    "invoice_date": "2024-12-16T10:57:19.027Z",
+    "shopping_mall": "Basics",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600786bfedc1865b9a0a5c",
+    "customer_id": "675fa041bfedc1865b9a0344",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 899,
+    "invoice_date": "2024-12-16T10:57:10.570Z",
+    "shopping_mall": "Basics",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760077ebfedc1865b9a0a5a",
+    "customer_id": "675fa041bfedc1865b9a0344",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 899,
+    "invoice_date": "2024-12-16T10:57:02.641Z",
+    "shopping_mall": "Basics",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600776bfedc1865b9a0a58",
+    "customer_id": "675fa041bfedc1865b9a0344",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 899,
+    "invoice_date": "2024-12-16T10:56:54.544Z",
+    "shopping_mall": "Basics",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600776bfedc1865b9a0a58",
+    "customer_id": "675fa041bfedc1865b9a0344",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 899,
+    "invoice_date": "2024-12-16T10:56:54.544Z",
+    "shopping_mall": "Basics",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600601bfedc1865b9a09f6",
+    "customer_id": "675fa031bfedc1865b9a0341",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1749,
+    "invoice_date": "2024-12-16T10:50:41.077Z",
+    "shopping_mall": "Flying Machine",
+    "age": 18
+  },
+  {
+    "invoice_no": "676005f9bfedc1865b9a09f4",
+    "customer_id": "675fa031bfedc1865b9a0341",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 3695,
+    "invoice_date": "2024-12-16T10:50:33.376Z",
+    "shopping_mall": "Nike",
+    "age": 18
+  },
+  {
+    "invoice_no": "676005f2bfedc1865b9a09f2",
+    "customer_id": "675fa031bfedc1865b9a0341",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1899,
+    "invoice_date": "2024-12-16T10:50:26.741Z",
+    "shopping_mall": "SCULLERS",
+    "age": 18
+  },
+  {
+    "invoice_no": "676005eabfedc1865b9a09f0",
+    "customer_id": "675fa031bfedc1865b9a0341",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1899,
+    "invoice_date": "2024-12-16T10:50:18.714Z",
+    "shopping_mall": "SCULLERS",
+    "age": 18
+  },
+  {
+    "invoice_no": "676005dfbfedc1865b9a09ee",
+    "customer_id": "675fa031bfedc1865b9a0341",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 799,
+    "invoice_date": "2024-12-16T10:50:07.930Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "676005d7bfedc1865b9a09ec",
+    "customer_id": "675fa031bfedc1865b9a0341",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 195,
+    "invoice_date": "2024-12-16T10:49:59.490Z",
+    "shopping_mall": "Hanes",
+    "age": 18
+  },
+  {
+    "invoice_no": "676005d7bfedc1865b9a09ec",
+    "customer_id": "675fa031bfedc1865b9a0341",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 230,
+    "invoice_date": "2024-12-16T10:49:59.490Z",
+    "shopping_mall": "Hanes",
+    "age": 18
+  },
+  {
+    "invoice_no": "676005d7bfedc1865b9a09ec",
+    "customer_id": "675fa031bfedc1865b9a0341",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 189,
+    "invoice_date": "2024-12-16T10:49:59.490Z",
+    "shopping_mall": "Hanes",
+    "age": 18
+  },
+  {
+    "invoice_no": "676005abbfedc1865b9a09da",
+    "customer_id": "675fa031bfedc1865b9a0341",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1399,
+    "invoice_date": "2024-12-16T10:49:15.252Z",
+    "shopping_mall": "Flying Machine",
+    "age": 18
+  },
+  {
+    "invoice_no": "676005a2bfedc1865b9a09d8",
+    "customer_id": "675fa031bfedc1865b9a0341",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 899,
+    "invoice_date": "2024-12-16T10:49:06.543Z",
+    "shopping_mall": "United Colors of Benetton",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760059abfedc1865b9a09d6",
+    "customer_id": "675fa031bfedc1865b9a0341",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 2499,
+    "invoice_date": "2024-12-16T10:48:58.224Z",
+    "shopping_mall": "United Colors of Benetton",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600592bfedc1865b9a09d4",
+    "customer_id": "675fa031bfedc1865b9a0341",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1495,
+    "invoice_date": "2024-12-16T10:48:50.478Z",
+    "shopping_mall": "Wrangler",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600592bfedc1865b9a09d4",
+    "customer_id": "675fa031bfedc1865b9a0341",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1395,
+    "invoice_date": "2024-12-16T10:48:50.478Z",
+    "shopping_mall": "Wrangler",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600588bfedc1865b9a09d2",
+    "customer_id": "675fa031bfedc1865b9a0341",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1395,
+    "invoice_date": "2024-12-16T10:48:40.624Z",
+    "shopping_mall": "Wrangler",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600582bfedc1865b9a09d0",
+    "customer_id": "675fa031bfedc1865b9a0341",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 185,
+    "invoice_date": "2024-12-16T10:48:34.585Z",
+    "shopping_mall": "Facit",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600579bfedc1865b9a09ce",
+    "customer_id": "675fa031bfedc1865b9a0341",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 185,
+    "invoice_date": "2024-12-16T10:48:25.841Z",
+    "shopping_mall": "Facit",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600555bfedc1865b9a09b8",
+    "customer_id": "675fa031bfedc1865b9a0341",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 215,
+    "invoice_date": "2024-12-16T10:47:49.862Z",
+    "shopping_mall": "Crusoe",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760054ebfedc1865b9a09b6",
+    "customer_id": "675fa031bfedc1865b9a0341",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 2999,
+    "invoice_date": "2024-12-16T10:47:42.764Z",
+    "shopping_mall": "SPYKAR",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600547bfedc1865b9a09b4",
+    "customer_id": "675fa031bfedc1865b9a0341",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1495,
+    "invoice_date": "2024-12-16T10:47:35.334Z",
+    "shopping_mall": "Wrangler",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760053fbfedc1865b9a09b2",
+    "customer_id": "675fa031bfedc1865b9a0341",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1099,
+    "invoice_date": "2024-12-16T10:47:27.585Z",
+    "shopping_mall": "Genesis",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600539bfedc1865b9a09b0",
+    "customer_id": "675fa031bfedc1865b9a0341",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1099,
+    "invoice_date": "2024-12-16T10:47:21.025Z",
+    "shopping_mall": "Genesis",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600533bfedc1865b9a09ae",
+    "customer_id": "675fa031bfedc1865b9a0341",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1099,
+    "invoice_date": "2024-12-16T10:47:15.160Z",
+    "shopping_mall": "Genesis",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760052cbfedc1865b9a09ac",
+    "customer_id": "675fa031bfedc1865b9a0341",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 1799,
+    "invoice_date": "2024-12-16T10:47:08.778Z",
+    "shopping_mall": "s.Oliver",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600474bfedc1865b9a095b",
+    "customer_id": "675fa022bfedc1865b9a033e",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 375,
+    "invoice_date": "2024-12-16T10:44:04.899Z",
+    "shopping_mall": "Baggit",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760046ebfedc1865b9a0959",
+    "customer_id": "675fa022bfedc1865b9a033e",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 450,
+    "invoice_date": "2024-12-16T10:43:58.385Z",
+    "shopping_mall": "Baggit",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600450bfedc1865b9a0947",
+    "customer_id": "675fa022bfedc1865b9a033e",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 700,
+    "invoice_date": "2024-12-16T10:43:28.767Z",
+    "shopping_mall": "Baggit",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760044abfedc1865b9a0945",
+    "customer_id": "675fa022bfedc1865b9a033e",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1399,
+    "invoice_date": "2024-12-16T10:43:22.014Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600443bfedc1865b9a0943",
+    "customer_id": "675fa022bfedc1865b9a033e",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1599,
+    "invoice_date": "2024-12-16T10:43:15.307Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760043cbfedc1865b9a0941",
+    "customer_id": "675fa022bfedc1865b9a033e",
+    "gender": "Men",
+    "category": "Footwear",
+    "price": 2599,
+    "invoice_date": "2024-12-16T10:43:08.523Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600434bfedc1865b9a093f",
+    "customer_id": "675fa022bfedc1865b9a033e",
+    "gender": "Men",
+    "category": "Footwear",
+    "price": 2299,
+    "invoice_date": "2024-12-16T10:43:00.251Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600412bfedc1865b9a092b",
+    "customer_id": "675fa022bfedc1865b9a033e",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1599,
+    "invoice_date": "2024-12-16T10:42:26.118Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760040bbfedc1865b9a0929",
+    "customer_id": "675fa022bfedc1865b9a033e",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 899,
+    "invoice_date": "2024-12-16T10:42:19.649Z",
+    "shopping_mall": "Basics",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600404bfedc1865b9a0927",
+    "customer_id": "675fa022bfedc1865b9a033e",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 1199,
+    "invoice_date": "2024-12-16T10:42:12.910Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "676003fdbfedc1865b9a0925",
+    "customer_id": "675fa022bfedc1865b9a033e",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 950,
+    "invoice_date": "2024-12-16T10:42:05.919Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "676003f7bfedc1865b9a0923",
+    "customer_id": "675fa022bfedc1865b9a033e",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 169,
+    "invoice_date": "2024-12-16T10:41:59.609Z",
+    "shopping_mall": "Peter England",
+    "age": 18
+  },
+  {
+    "invoice_no": "676003f7bfedc1865b9a0923",
+    "customer_id": "675fa022bfedc1865b9a033e",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 149,
+    "invoice_date": "2024-12-16T10:41:59.609Z",
+    "shopping_mall": "Peter England",
+    "age": 18
+  },
+  {
+    "invoice_no": "676003cebfedc1865b9a0910",
+    "customer_id": "675fa022bfedc1865b9a033e",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 185,
+    "invoice_date": "2024-12-16T10:41:18.381Z",
+    "shopping_mall": "Facit",
+    "age": 18
+  },
+  {
+    "invoice_no": "676003c6bfedc1865b9a090e",
+    "customer_id": "675fa022bfedc1865b9a033e",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 185,
+    "invoice_date": "2024-12-16T10:41:10.888Z",
+    "shopping_mall": "Facit",
+    "age": 18
+  },
+  {
+    "invoice_no": "676003bfbfedc1865b9a090c",
+    "customer_id": "675fa022bfedc1865b9a033e",
+    "gender": "Unisex",
+    "category": "Accessories",
+    "price": 135,
+    "invoice_date": "2024-12-16T10:41:03.108Z",
+    "shopping_mall": "Nike",
+    "age": 18
+  },
+  {
+    "invoice_no": "676003b5bfedc1865b9a090a",
+    "customer_id": "675fa022bfedc1865b9a033e",
+    "gender": "Men",
+    "category": "Personal Care",
+    "price": 189,
+    "invoice_date": "2024-12-16T10:40:53.597Z",
+    "shopping_mall": "Manchester United",
+    "age": 18
+  },
+  {
+    "invoice_no": "676003a9bfedc1865b9a0903",
+    "customer_id": "675fa022bfedc1865b9a033e",
+    "gender": "Men",
+    "category": "Personal Care",
+    "price": 189,
+    "invoice_date": "2024-12-16T10:40:41.793Z",
+    "shopping_mall": "Manchester United",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600191bfedc1865b9a08b6",
+    "customer_id": "675fa014bfedc1865b9a033b",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 899,
+    "invoice_date": "2024-12-16T10:31:45.183Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600188bfedc1865b9a08b4",
+    "customer_id": "675fa014bfedc1865b9a033b",
+    "gender": "Women",
+    "category": "Footwear",
+    "price": 2499,
+    "invoice_date": "2024-12-16T10:31:36.568Z",
+    "shopping_mall": "Enroute Women",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600188bfedc1865b9a08b4",
+    "customer_id": "675fa014bfedc1865b9a033b",
+    "gender": "Women",
+    "category": "Footwear",
+    "price": 2499,
+    "invoice_date": "2024-12-16T10:31:36.568Z",
+    "shopping_mall": "Enroute Women",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760017ebfedc1865b9a08b2",
+    "customer_id": "675fa014bfedc1865b9a033b",
+    "gender": "Women",
+    "category": "Footwear",
+    "price": 1695,
+    "invoice_date": "2024-12-16T10:31:26.605Z",
+    "shopping_mall": "Carlton London",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600178bfedc1865b9a08b0",
+    "customer_id": "675fa014bfedc1865b9a033b",
+    "gender": "Women",
+    "category": "Footwear",
+    "price": 1895,
+    "invoice_date": "2024-12-16T10:31:20.286Z",
+    "shopping_mall": "Carlton London",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600155bfedc1865b9a08a1",
+    "customer_id": "675fa014bfedc1865b9a033b",
+    "gender": "Women",
+    "category": "Footwear",
+    "price": 1695,
+    "invoice_date": "2024-12-16T10:30:45.876Z",
+    "shopping_mall": "Carlton London",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760014ebfedc1865b9a089f",
+    "customer_id": "675fa014bfedc1865b9a033b",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 795,
+    "invoice_date": "2024-12-16T10:30:38.914Z",
+    "shopping_mall": "Fastrack",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600148bfedc1865b9a089d",
+    "customer_id": "675fa014bfedc1865b9a033b",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 1195,
+    "invoice_date": "2024-12-16T10:30:32.312Z",
+    "shopping_mall": "Fastrack",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600141bfedc1865b9a089b",
+    "customer_id": "675fa014bfedc1865b9a033b",
+    "gender": "Women",
+    "category": "Footwear",
+    "price": 399,
+    "invoice_date": "2024-12-16T10:30:25.637Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760013abfedc1865b9a0899",
+    "customer_id": "675fa014bfedc1865b9a033b",
+    "gender": "Women",
+    "category": "Footwear",
+    "price": 599,
+    "invoice_date": "2024-12-16T10:30:18.040Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760012fbfedc1865b9a0897",
+    "customer_id": "675fa014bfedc1865b9a033b",
+    "gender": "Women",
+    "category": "Footwear",
+    "price": 599,
+    "invoice_date": "2024-12-16T10:30:07.719Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760012fbfedc1865b9a0897",
+    "customer_id": "675fa014bfedc1865b9a033b",
+    "gender": "Women",
+    "category": "Footwear",
+    "price": 399,
+    "invoice_date": "2024-12-16T10:30:07.719Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760010bbfedc1865b9a0884",
+    "customer_id": "675fa014bfedc1865b9a033b",
+    "gender": "Women",
+    "category": "Footwear",
+    "price": 399,
+    "invoice_date": "2024-12-16T10:29:31.849Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600104bfedc1865b9a0882",
+    "customer_id": "675fa014bfedc1865b9a033b",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 1095,
+    "invoice_date": "2024-12-16T10:29:24.291Z",
+    "shopping_mall": "Fastrack",
+    "age": 18
+  },
+  {
+    "invoice_no": "676000fdbfedc1865b9a0880",
+    "customer_id": "675fa014bfedc1865b9a033b",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 895,
+    "invoice_date": "2024-12-16T10:29:17.657Z",
+    "shopping_mall": "Fastrack",
+    "age": 18
+  },
+  {
+    "invoice_no": "676000f6bfedc1865b9a087e",
+    "customer_id": "675fa014bfedc1865b9a033b",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 1095,
+    "invoice_date": "2024-12-16T10:29:10.569Z",
+    "shopping_mall": "Fastrack",
+    "age": 18
+  },
+  {
+    "invoice_no": "676000f0bfedc1865b9a087c",
+    "customer_id": "675fa014bfedc1865b9a033b",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 1495,
+    "invoice_date": "2024-12-16T10:29:04.442Z",
+    "shopping_mall": "Fastrack",
+    "age": 18
+  },
+  {
+    "invoice_no": "676000b9bfedc1865b9a0866",
+    "customer_id": "675fa014bfedc1865b9a033b",
+    "gender": "Women",
+    "category": "Footwear",
+    "price": 1595,
+    "invoice_date": "2024-12-16T10:28:09.203Z",
+    "shopping_mall": "Catwalk",
+    "age": 18
+  },
+  {
+    "invoice_no": "676000b0bfedc1865b9a0864",
+    "customer_id": "675fa014bfedc1865b9a033b",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 1295,
+    "invoice_date": "2024-12-16T10:28:00.534Z",
+    "shopping_mall": "Fastrack",
+    "age": 18
+  },
+  {
+    "invoice_no": "676000a8bfedc1865b9a0862",
+    "customer_id": "675fa014bfedc1865b9a033b",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 1295,
+    "invoice_date": "2024-12-16T10:27:52.965Z",
+    "shopping_mall": "Fastrack",
+    "age": 18
+  },
+  {
+    "invoice_no": "676000a1bfedc1865b9a0860",
+    "customer_id": "675fa014bfedc1865b9a033b",
+    "gender": "Women",
+    "category": "Footwear",
+    "price": 1295,
+    "invoice_date": "2024-12-16T10:27:45.154Z",
+    "shopping_mall": "Catwalk",
+    "age": 18
+  },
+  {
+    "invoice_no": "6760009abfedc1865b9a085e",
+    "customer_id": "675fa014bfedc1865b9a033b",
+    "gender": "Women",
+    "category": "Footwear",
+    "price": 1495,
+    "invoice_date": "2024-12-16T10:27:38.964Z",
+    "shopping_mall": "Catwalk",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600093bfedc1865b9a085c",
+    "customer_id": "675fa014bfedc1865b9a033b",
+    "gender": "Women",
+    "category": "Footwear",
+    "price": 1495,
+    "invoice_date": "2024-12-16T10:27:31.424Z",
+    "shopping_mall": "Catwalk",
+    "age": 18
+  },
+  {
+    "invoice_no": "67600093bfedc1865b9a085c",
+    "customer_id": "675fa014bfedc1865b9a033b",
+    "gender": "Women",
+    "category": "Footwear",
+    "price": 1395,
+    "invoice_date": "2024-12-16T10:27:31.424Z",
+    "shopping_mall": "Catwalk",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe9d7bfedc1865b9a0809",
+    "customer_id": "675fa006bfedc1865b9a0338",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1399,
+    "invoice_date": "2024-12-16T08:50:31.844Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe9d0bfedc1865b9a0807",
+    "customer_id": "675fa006bfedc1865b9a0338",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1599,
+    "invoice_date": "2024-12-16T08:50:24.487Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe9c9bfedc1865b9a0805",
+    "customer_id": "675fa006bfedc1865b9a0338",
+    "gender": "Men",
+    "category": "Footwear",
+    "price": 2599,
+    "invoice_date": "2024-12-16T08:50:17.519Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe998bfedc1865b9a07ef",
+    "customer_id": "675fa006bfedc1865b9a0338",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 185,
+    "invoice_date": "2024-12-16T08:49:28.694Z",
+    "shopping_mall": "Facit",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe98cbfedc1865b9a07ed",
+    "customer_id": "675fa006bfedc1865b9a0338",
+    "gender": "Men",
+    "category": "Personal Care",
+    "price": 189,
+    "invoice_date": "2024-12-16T08:49:16.786Z",
+    "shopping_mall": "Manchester United",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe984bfedc1865b9a07eb",
+    "customer_id": "675fa006bfedc1865b9a0338",
+    "gender": "Men",
+    "category": "Personal Care",
+    "price": 189,
+    "invoice_date": "2024-12-16T08:49:08.738Z",
+    "shopping_mall": "Manchester United",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe97cbfedc1865b9a07e9",
+    "customer_id": "675fa006bfedc1865b9a0338",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 185,
+    "invoice_date": "2024-12-16T08:49:00.326Z",
+    "shopping_mall": "Facit",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe937bfedc1865b9a07d0",
+    "customer_id": "675fa006bfedc1865b9a0338",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 899,
+    "invoice_date": "2024-12-16T08:47:51.528Z",
+    "shopping_mall": "United Colors of Benetton",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe92fbfedc1865b9a07ce",
+    "customer_id": "675fa006bfedc1865b9a0338",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 799,
+    "invoice_date": "2024-12-16T08:47:43.347Z",
+    "shopping_mall": "DIVA",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe927bfedc1865b9a07cc",
+    "customer_id": "675fa006bfedc1865b9a0338",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 1095,
+    "invoice_date": "2024-12-16T08:47:35.926Z",
+    "shopping_mall": "Wrangler",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe91fbfedc1865b9a07ca",
+    "customer_id": "675fa006bfedc1865b9a0338",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 400,
+    "invoice_date": "2024-12-16T08:47:27.085Z",
+    "shopping_mall": "Baggit",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe91fbfedc1865b9a07ca",
+    "customer_id": "675fa006bfedc1865b9a0338",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 1675,
+    "invoice_date": "2024-12-16T08:47:27.085Z",
+    "shopping_mall": "Baggit",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe91fbfedc1865b9a07ca",
+    "customer_id": "675fa006bfedc1865b9a0338",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 750,
+    "invoice_date": "2024-12-16T08:47:27.085Z",
+    "shopping_mall": "Baggit",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe8eebfedc1865b9a07ba",
+    "customer_id": "675fa006bfedc1865b9a0338",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 1600,
+    "invoice_date": "2024-12-16T08:46:38.255Z",
+    "shopping_mall": "Baggit",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe8eebfedc1865b9a07ba",
+    "customer_id": "675fa006bfedc1865b9a0338",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 650,
+    "invoice_date": "2024-12-16T08:46:38.255Z",
+    "shopping_mall": "Baggit",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe8e3bfedc1865b9a07b8",
+    "customer_id": "675fa006bfedc1865b9a0338",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 425,
+    "invoice_date": "2024-12-16T08:46:27.935Z",
+    "shopping_mall": "Baggit",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe8e3bfedc1865b9a07b8",
+    "customer_id": "675fa006bfedc1865b9a0338",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 775,
+    "invoice_date": "2024-12-16T08:46:27.935Z",
+    "shopping_mall": "Baggit",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe8dbbfedc1865b9a07b6",
+    "customer_id": "675fa006bfedc1865b9a0338",
+    "gender": "Women",
+    "category": "Footwear",
+    "price": 2499,
+    "invoice_date": "2024-12-16T08:46:19.528Z",
+    "shopping_mall": "Enroute Women",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe8d4bfedc1865b9a07b4",
+    "customer_id": "675fa006bfedc1865b9a0338",
+    "gender": "Women",
+    "category": "Footwear",
+    "price": 1695,
+    "invoice_date": "2024-12-16T08:46:12.216Z",
+    "shopping_mall": "Carlton London",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe8cbbfedc1865b9a07b2",
+    "customer_id": "675fa006bfedc1865b9a0338",
+    "gender": "Women",
+    "category": "Footwear",
+    "price": 1495,
+    "invoice_date": "2024-12-16T08:46:03.213Z",
+    "shopping_mall": "Catwalk",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe8cbbfedc1865b9a07b2",
+    "customer_id": "675fa006bfedc1865b9a0338",
+    "gender": "Women",
+    "category": "Footwear",
+    "price": 1695,
+    "invoice_date": "2024-12-16T08:46:03.213Z",
+    "shopping_mall": "Carlton London",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe8c1bfedc1865b9a07b0",
+    "customer_id": "675fa006bfedc1865b9a0338",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 1195,
+    "invoice_date": "2024-12-16T08:45:53.757Z",
+    "shopping_mall": "Fastrack",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe8a1bfedc1865b9a07a2",
+    "customer_id": "675fa006bfedc1865b9a0338",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 899,
+    "invoice_date": "2024-12-16T08:45:21.697Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe89abfedc1865b9a07a0",
+    "customer_id": "675fa006bfedc1865b9a0338",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 1599,
+    "invoice_date": "2024-12-16T08:45:14.436Z",
+    "shopping_mall": "s.Oliver",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe893bfedc1865b9a079e",
+    "customer_id": "675fa006bfedc1865b9a0338",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 2000,
+    "invoice_date": "2024-12-16T08:45:07.134Z",
+    "shopping_mall": "Allen Solly",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe88abfedc1865b9a079c",
+    "customer_id": "675fa006bfedc1865b9a0338",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 3750,
+    "invoice_date": "2024-12-16T08:44:58.807Z",
+    "shopping_mall": "Celine Dion",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe883bfedc1865b9a079a",
+    "customer_id": "675fa006bfedc1865b9a0338",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 1850,
+    "invoice_date": "2024-12-16T08:44:51.394Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe7a5bfedc1865b9a0748",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Men",
+    "category": "Footwear",
+    "price": 2599,
+    "invoice_date": "2024-12-16T08:41:09.471Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe79dbfedc1865b9a0746",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 950,
+    "invoice_date": "2024-12-16T08:41:01.695Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe795bfedc1865b9a0744",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 149,
+    "invoice_date": "2024-12-16T08:40:53.061Z",
+    "shopping_mall": "Peter England",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe78cbfedc1865b9a0742",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Men",
+    "category": "Personal Care",
+    "price": 189,
+    "invoice_date": "2024-12-16T08:40:44.831Z",
+    "shopping_mall": "Manchester United",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe732bfedc1865b9a072b",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 1099,
+    "invoice_date": "2024-12-16T08:39:14.986Z",
+    "shopping_mall": "s.Oliver",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe72abfedc1865b9a0729",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Unisex",
+    "category": "Accessories",
+    "price": 3295,
+    "invoice_date": "2024-12-16T08:39:06.862Z",
+    "shopping_mall": "Quiksilver",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe723bfedc1865b9a0727",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 1099,
+    "invoice_date": "2024-12-16T08:38:59.028Z",
+    "shopping_mall": "Lee",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe6f7bfedc1865b9a0717",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Men",
+    "category": "Footwear",
+    "price": 399,
+    "invoice_date": "2024-12-16T08:38:15.574Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe6eebfedc1865b9a0715",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1249,
+    "invoice_date": "2024-12-16T08:38:06.845Z",
+    "shopping_mall": "Basics",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe6eebfedc1865b9a0715",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Unisex",
+    "category": "Accessories",
+    "price": 2050,
+    "invoice_date": "2024-12-16T08:38:06.845Z",
+    "shopping_mall": "Skybags",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe6e5bfedc1865b9a0713",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Men",
+    "category": "Accessories",
+    "price": 3500,
+    "invoice_date": "2024-12-16T08:37:57.711Z",
+    "shopping_mall": "Louis Philippe",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe6e5bfedc1865b9a0713",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 5000,
+    "invoice_date": "2024-12-16T08:37:57.711Z",
+    "shopping_mall": "Celine Dion",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe6e5bfedc1865b9a0713",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 3250,
+    "invoice_date": "2024-12-16T08:37:57.711Z",
+    "shopping_mall": "Allen Solly",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe6d9bfedc1865b9a0711",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 3500,
+    "invoice_date": "2024-12-16T08:37:45.375Z",
+    "shopping_mall": "Van Heusen",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe6d9bfedc1865b9a0711",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1199,
+    "invoice_date": "2024-12-16T08:37:45.375Z",
+    "shopping_mall": "Basics",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe6d0bfedc1865b9a070f",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 584,
+    "invoice_date": "2024-12-16T08:37:36.051Z",
+    "shopping_mall": "LOCOMOTIVE",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe6c8bfedc1865b9a070d",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 899,
+    "invoice_date": "2024-12-16T08:37:28.085Z",
+    "shopping_mall": "Basics",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe6c8bfedc1865b9a070d",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 2295,
+    "invoice_date": "2024-12-16T08:37:28.085Z",
+    "shopping_mall": "roxy",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe611bfedc1865b9a06cc",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 950,
+    "invoice_date": "2024-12-16T08:34:25.493Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe609bfedc1865b9a06ca",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 1250,
+    "invoice_date": "2024-12-16T08:34:17.381Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe609bfedc1865b9a06ca",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 950,
+    "invoice_date": "2024-12-16T08:34:17.381Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe600bfedc1865b9a06c8",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 999,
+    "invoice_date": "2024-12-16T08:34:08.744Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe600bfedc1865b9a06c8",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 950,
+    "invoice_date": "2024-12-16T08:34:08.744Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe600bfedc1865b9a06c8",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 1250,
+    "invoice_date": "2024-12-16T08:34:08.744Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe5f1bfedc1865b9a06c6",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 850,
+    "invoice_date": "2024-12-16T08:33:53.321Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe5f1bfedc1865b9a06c6",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 1099,
+    "invoice_date": "2024-12-16T08:33:53.321Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe5e7bfedc1865b9a06c4",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 999,
+    "invoice_date": "2024-12-16T08:33:43.575Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe5ddbfedc1865b9a06c2",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 750,
+    "invoice_date": "2024-12-16T08:33:33.803Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe5ddbfedc1865b9a06c2",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 750,
+    "invoice_date": "2024-12-16T08:33:33.803Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe58cbfedc1865b9a06a1",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 1850,
+    "invoice_date": "2024-12-16T08:32:12.134Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe58cbfedc1865b9a06a1",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 950,
+    "invoice_date": "2024-12-16T08:32:12.134Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe53cbfedc1865b9a0683",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1599,
+    "invoice_date": "2024-12-16T08:30:52.514Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe53cbfedc1865b9a0683",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1399,
+    "invoice_date": "2024-12-16T08:30:52.514Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe51cbfedc1865b9a0678",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Men",
+    "category": "Footwear",
+    "price": 2599,
+    "invoice_date": "2024-12-16T08:30:20.540Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe50bbfedc1865b9a0672",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1599,
+    "invoice_date": "2024-12-16T08:30:03.221Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe4f7bfedc1865b9a066c",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 149,
+    "invoice_date": "2024-12-16T08:29:43.193Z",
+    "shopping_mall": "Peter England",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe4f7bfedc1865b9a066c",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 149,
+    "invoice_date": "2024-12-16T08:29:43.193Z",
+    "shopping_mall": "Peter England",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fe4f7bfedc1865b9a066c",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 169,
+    "invoice_date": "2024-12-16T08:29:43.193Z",
+    "shopping_mall": "Peter England",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fc20cbfedc1865b9a065e",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Men",
+    "category": "Footwear",
+    "price": 399,
+    "invoice_date": "2024-12-16T06:00:44.104Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fc1c0bfedc1865b9a064d",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 599,
+    "invoice_date": "2024-12-16T05:59:28.370Z",
+    "shopping_mall": "Kalenji",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fb380bfedc1865b9a0633",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Men",
+    "category": "Personal Care",
+    "price": 189,
+    "invoice_date": "2024-12-16T04:58:40.695Z",
+    "shopping_mall": "Manchester United",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fb371bfedc1865b9a062a",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Men",
+    "category": "Footwear",
+    "price": 2299,
+    "invoice_date": "2024-12-16T04:58:25.544Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fb361bfedc1865b9a061f",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 1199,
+    "invoice_date": "2024-12-16T04:58:09.029Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fb323bfedc1865b9a060d",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 1199,
+    "invoice_date": "2024-12-16T04:57:07.295Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fb312bfedc1865b9a0604",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 2295,
+    "invoice_date": "2024-12-16T04:56:50.615Z",
+    "shopping_mall": "roxy",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fb312bfedc1865b9a0604",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 1895,
+    "invoice_date": "2024-12-16T04:56:50.615Z",
+    "shopping_mall": "roxy",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fb2c4bfedc1865b9a05e4",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 519,
+    "invoice_date": "2024-12-16T04:55:32.575Z",
+    "shopping_mall": "LOCOMOTIVE",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fb2b0bfedc1865b9a05d7",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Men",
+    "category": "Footwear",
+    "price": 2599,
+    "invoice_date": "2024-12-16T04:55:12.418Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fb29ebfedc1865b9a05cc",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 850,
+    "invoice_date": "2024-12-16T04:54:54.519Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fb235bfedc1865b9a05ae",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 825,
+    "invoice_date": "2024-12-16T04:53:09.471Z",
+    "shopping_mall": "Baggit",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fb235bfedc1865b9a05ae",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 450,
+    "invoice_date": "2024-12-16T04:53:09.471Z",
+    "shopping_mall": "Baggit",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fb235bfedc1865b9a05ae",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 450,
+    "invoice_date": "2024-12-16T04:53:09.471Z",
+    "shopping_mall": "Baggit",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fb209bfedc1865b9a059e",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1599,
+    "invoice_date": "2024-12-16T04:52:25.506Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fb209bfedc1865b9a059e",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 750,
+    "invoice_date": "2024-12-16T04:52:25.506Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fb1f4bfedc1865b9a058c",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Men",
+    "category": "Accessories",
+    "price": 249,
+    "invoice_date": "2024-12-16T04:52:04.196Z",
+    "shopping_mall": "Puma",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fb1f4bfedc1865b9a058c",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1599,
+    "invoice_date": "2024-12-16T04:52:04.196Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fb1e0bfedc1865b9a0581",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 169,
+    "invoice_date": "2024-12-16T04:51:44.681Z",
+    "shopping_mall": "Peter England",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fb1e0bfedc1865b9a0581",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 169,
+    "invoice_date": "2024-12-16T04:51:44.681Z",
+    "shopping_mall": "Peter England",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fb1cebfedc1865b9a0578",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 950,
+    "invoice_date": "2024-12-16T04:51:26.501Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "675faaa5bfedc1865b9a0554",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 2999,
+    "invoice_date": "2024-12-16T04:20:53.604Z",
+    "shopping_mall": "SPYKAR",
+    "age": 18
+  },
+  {
+    "invoice_no": "675faaa5bfedc1865b9a0554",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 215,
+    "invoice_date": "2024-12-16T04:20:53.604Z",
+    "shopping_mall": "Crusoe",
+    "age": 18
+  },
+  {
+    "invoice_no": "675faa89bfedc1865b9a054c",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 899,
+    "invoice_date": "2024-12-16T04:20:25.819Z",
+    "shopping_mall": "Basics",
+    "age": 18
+  },
+  {
+    "invoice_no": "675faa89bfedc1865b9a054c",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1999,
+    "invoice_date": "2024-12-16T04:20:25.819Z",
+    "shopping_mall": "Manchester United",
+    "age": 18
+  },
+  {
+    "invoice_no": "675faa68bfedc1865b9a0540",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 2499,
+    "invoice_date": "2024-12-16T04:19:52.068Z",
+    "shopping_mall": "United Colors of Benetton",
+    "age": 18
+  },
+  {
+    "invoice_no": "675faa68bfedc1865b9a0540",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 2499,
+    "invoice_date": "2024-12-16T04:19:52.068Z",
+    "shopping_mall": "United Colors of Benetton",
+    "age": 18
+  },
+  {
+    "invoice_no": "675faa2fbfedc1865b9a0530",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 1850,
+    "invoice_date": "2024-12-16T04:18:55.225Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "675faa2fbfedc1865b9a0530",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 1199,
+    "invoice_date": "2024-12-16T04:18:55.225Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "675faa17bfedc1865b9a0526",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 899,
+    "invoice_date": "2024-12-16T04:18:31.355Z",
+    "shopping_mall": "Basics",
+    "age": 18
+  },
+  {
+    "invoice_no": "675faa17bfedc1865b9a0526",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1599,
+    "invoice_date": "2024-12-16T04:18:31.355Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa9c6bfedc1865b9a0509",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 185,
+    "invoice_date": "2024-12-16T04:17:10.919Z",
+    "shopping_mall": "Facit",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa9c6bfedc1865b9a0509",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Men",
+    "category": "Personal Care",
+    "price": 189,
+    "invoice_date": "2024-12-16T04:17:10.919Z",
+    "shopping_mall": "Manchester United",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa9c6bfedc1865b9a0509",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 185,
+    "invoice_date": "2024-12-16T04:17:10.919Z",
+    "shopping_mall": "Facit",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa9a7bfedc1865b9a04f2",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Men",
+    "category": "Footwear",
+    "price": 2299,
+    "invoice_date": "2024-12-16T04:16:39.819Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa98dbfedc1865b9a04ec",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 1199,
+    "invoice_date": "2024-12-16T04:16:13.096Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa977bfedc1865b9a04e6",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Men",
+    "category": "Footwear",
+    "price": 399,
+    "invoice_date": "2024-12-16T04:15:51.439Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa968bfedc1865b9a04e0",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1399,
+    "invoice_date": "2024-12-16T04:15:36.360Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa4b0bfedc1865b9a04a8",
+    "customer_id": "675fa33bbfedc1865b9a041d",
+    "gender": "Women",
+    "category": "Personal Care",
+    "price": 2990,
+    "invoice_date": "2024-12-16T03:55:28.876Z",
+    "shopping_mall": "GUESS",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa4b0bfedc1865b9a04a8",
+    "customer_id": "675fa33bbfedc1865b9a041d",
+    "gender": "Men",
+    "category": "Footwear",
+    "price": 2295,
+    "invoice_date": "2024-12-16T03:55:28.876Z",
+    "shopping_mall": "Carlton London",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa48dbfedc1865b9a049a",
+    "customer_id": "675fa330bfedc1865b9a041a",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 519,
+    "invoice_date": "2024-12-16T03:54:53.700Z",
+    "shopping_mall": "LOCOMOTIVE",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa470bfedc1865b9a048c",
+    "customer_id": "675fa323bfedc1865b9a0417",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1099,
+    "invoice_date": "2024-12-16T03:54:24.356Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa470bfedc1865b9a048c",
+    "customer_id": "675fa323bfedc1865b9a0417",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1099,
+    "invoice_date": "2024-12-16T03:54:24.356Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa44cbfedc1865b9a047c",
+    "customer_id": "675fa319bfedc1865b9a0414",
+    "gender": "Men",
+    "category": "Footwear",
+    "price": 2299,
+    "invoice_date": "2024-12-16T03:53:48.041Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa42ebfedc1865b9a0470",
+    "customer_id": "675fa30ebfedc1865b9a0411",
+    "gender": "Men",
+    "category": "Accessories",
+    "price": 249,
+    "invoice_date": "2024-12-16T03:53:18.268Z",
+    "shopping_mall": "Puma",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa40fbfedc1865b9a0464",
+    "customer_id": "675fa301bfedc1865b9a040e",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 850,
+    "invoice_date": "2024-12-16T03:52:48.000Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa40fbfedc1865b9a0464",
+    "customer_id": "675fa301bfedc1865b9a040e",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 950,
+    "invoice_date": "2024-12-16T03:52:48.000Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa3f1bfedc1865b9a0456",
+    "customer_id": "675fa2f4bfedc1865b9a040b",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1599,
+    "invoice_date": "2024-12-16T03:52:17.873Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa3d4bfedc1865b9a044c",
+    "customer_id": "675fa2e4bfedc1865b9a0408",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 1850,
+    "invoice_date": "2024-12-16T03:51:48.947Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa3d4bfedc1865b9a044c",
+    "customer_id": "675fa2e4bfedc1865b9a0408",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 950,
+    "invoice_date": "2024-12-16T03:51:48.947Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa3d4bfedc1865b9a044c",
+    "customer_id": "675fa2e4bfedc1865b9a0408",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 1250,
+    "invoice_date": "2024-12-16T03:51:48.947Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa38fbfedc1865b9a0435",
+    "customer_id": "675fa2cabfedc1865b9a0405",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 149,
+    "invoice_date": "2024-12-16T03:50:39.473Z",
+    "shopping_mall": "Peter England",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa38fbfedc1865b9a0435",
+    "customer_id": "675fa2cabfedc1865b9a0405",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1599,
+    "invoice_date": "2024-12-16T03:50:39.473Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa363bfedc1865b9a0429",
+    "customer_id": "675fa2bdbfedc1865b9a0402",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 899,
+    "invoice_date": "2024-12-16T03:49:55.724Z",
+    "shopping_mall": "Basics",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa1dfbfedc1865b9a03d7",
+    "customer_id": "675fa06abfedc1865b9a034d",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 3000,
+    "invoice_date": "2024-12-16T03:43:27.877Z",
+    "shopping_mall": "Allen Solly",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa1dfbfedc1865b9a03d7",
+    "customer_id": "675fa06abfedc1865b9a034d",
+    "gender": "Women",
+    "category": "Apparel",
+    "price": 1099,
+    "invoice_date": "2024-12-16T03:43:27.877Z",
+    "shopping_mall": "s.Oliver",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa1b2bfedc1865b9a03c5",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 1850,
+    "invoice_date": "2024-12-16T03:42:42.480Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa1b2bfedc1865b9a03c5",
+    "customer_id": "675fa05dbfedc1865b9a034a",
+    "gender": "Men",
+    "category": "Footwear",
+    "price": 2299,
+    "invoice_date": "2024-12-16T03:42:42.480Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa191bfedc1865b9a03b7",
+    "customer_id": "675fa04ebfedc1865b9a0347",
+    "gender": "Unisex",
+    "category": "Accessories",
+    "price": 135,
+    "invoice_date": "2024-12-16T03:42:09.529Z",
+    "shopping_mall": "Nike",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa179bfedc1865b9a03ad",
+    "customer_id": "675fa041bfedc1865b9a0344",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1995,
+    "invoice_date": "2024-12-16T03:41:45.377Z",
+    "shopping_mall": "Nike",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa155bfedc1865b9a03a1",
+    "customer_id": "675fa031bfedc1865b9a0341",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 1599,
+    "invoice_date": "2024-12-16T03:41:09.453Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa155bfedc1865b9a03a1",
+    "customer_id": "675fa031bfedc1865b9a0341",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 750,
+    "invoice_date": "2024-12-16T03:41:09.453Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa131bfedc1865b9a0393",
+    "customer_id": "675fa022bfedc1865b9a033e",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 899,
+    "invoice_date": "2024-12-16T03:40:33.353Z",
+    "shopping_mall": "Basics",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa111bfedc1865b9a0387",
+    "customer_id": "675fa014bfedc1865b9a033b",
+    "gender": "Men",
+    "category": "Footwear",
+    "price": 2299,
+    "invoice_date": "2024-12-16T03:40:01.732Z",
+    "shopping_mall": "ADIDAS",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa111bfedc1865b9a0387",
+    "customer_id": "675fa014bfedc1865b9a033b",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 149,
+    "invoice_date": "2024-12-16T03:40:01.732Z",
+    "shopping_mall": "Peter England",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa0f6bfedc1865b9a037d",
+    "customer_id": "675fa006bfedc1865b9a0338",
+    "gender": "Men",
+    "category": "Footwear",
+    "price": 2799,
+    "invoice_date": "2024-12-16T03:39:34.328Z",
+    "shopping_mall": "FILA",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa0c9bfedc1865b9a036d",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 899,
+    "invoice_date": "2024-12-16T03:38:49.888Z",
+    "shopping_mall": "FIFA",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa0c9bfedc1865b9a036d",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Women",
+    "category": "Personal Care",
+    "price": 3750,
+    "invoice_date": "2024-12-16T03:38:49.888Z",
+    "shopping_mall": "Ed Hardy",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa0c9bfedc1865b9a036d",
+    "customer_id": "675f9feebfedc1865b9a0335",
+    "gender": "Women",
+    "category": "Accessories",
+    "price": 1199,
+    "invoice_date": "2024-12-16T03:38:49.888Z",
+    "shopping_mall": "KIARA",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa086bfedc1865b9a0357",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Men",
+    "category": "Apparel",
+    "price": 185,
+    "invoice_date": "2024-12-16T03:37:42.069Z",
+    "shopping_mall": "Facit",
+    "age": 18
+  },
+  {
+    "invoice_no": "675fa086bfedc1865b9a0357",
+    "customer_id": "675f9fe0bfedc1865b9a0332",
+    "gender": "Men",
+    "category": "Personal Care",
+    "price": 189,
+    "invoice_date": "2024-12-16T03:37:42.069Z",
+    "shopping_mall": "Manchester United",
+    "age": 18
+  },
+  {
+    "invoice_no": "675f20c5dd798ce9ce484de4",
+    "customer_id": "675f207edd798ce9ce484dc9",
+    "gender": "Unisex",
+    "category": "Accessories",
+    "price": 135,
+    "invoice_date": "2024-12-15T18:32:37.087Z",
+    "shopping_mall": "Nike",
+    "age": 18
+  }
+]
