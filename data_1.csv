@@ -1,156 +1,51 @@
 customer_id,total_price,most_frequent_category,most_frequent_brand,total_invoices
-675f207edd798ce9ce484dc9,135,Accessories,Nike,1
-675f9fe0bfedc1865b9a0332,43739,Apparel,ADIDAS,39
-675f9feebfedc1865b9a0335,60812,Accessories,KIARA,42
-675fa006bfedc1865b9a0338,36889,Accessories,Baggit,28
-675fa014bfedc1865b9a033b,32460,Footwear,Fastrack,26
-675fa022bfedc1865b9a033e,16168,Apparel,ADIDAS,19
-675fa031bfedc1865b9a0341,32261,Apparel,Wrangler,25
-675fa041bfedc1865b9a0344,56572,Apparel,roxy,33
-675fa04ebfedc1865b9a0347,46294,Apparel,s.Oliver,31
-675fa05dbfedc1865b9a034a,62842,Apparel,s.Oliver,35
-675fa06abfedc1865b9a034d,17346,Accessories,KIARA,12
-675fa2bdbfedc1865b9a0402,899,Apparel,Basics,1
-675fa2cabfedc1865b9a0405,1748,Apparel,Peter England,2
-675fa2e4bfedc1865b9a0408,4050,Accessories,KIARA,3
-675fa2f4bfedc1865b9a040b,1599,Apparel,ADIDAS,1
-675fa301bfedc1865b9a040e,1800,Accessories,KIARA,2
-675fa30ebfedc1865b9a0411,249,Accessories,Puma,1
-675fa319bfedc1865b9a0414,2299,Footwear,ADIDAS,1
-675fa323bfedc1865b9a0417,2198,Apparel,ADIDAS,2
-675fa330bfedc1865b9a041a,519,Apparel,LOCOMOTIVE,1
-675fa33bbfedc1865b9a041d,5285,Personal Care,GUESS,2
-6760e29d387c22cdb9de80d9,11895,Apparel,Wrangler,11
-676128faff8787351617211b,939,Personal Care,Manchester United,2
-6761290eff8787351617211e,1599,Apparel,ADIDAS,1
-67622fb68531bce4f13f5642,74703,Apparel,Catwalk,56
-67622fcf8531bce4f13f5647,85801,Apparel,Wrangler,55
-67622fdf8531bce4f13f564c,76200,Apparel,ADIDAS,61
-67622fee8531bce4f13f5651,116085,Apparel,roxy,62
-67622ffd8531bce4f13f5656,106405,Apparel,Puma,57
-676283bf8531bce4f13f5e2e,111508,Apparel,Nike,58
-67628dd48531bce4f13f5fd3,29613,Apparel,Chhota Bheem,62
-6762a4008531bce4f13f6211,219959,Accessories,Puma,55
-6762a6f18531bce4f13f6331,125089,Accessories,KIARA,58
-6762ad908531bce4f13f64c8,112269,Accessories,United Colors of Benetton,63
-676386b18531bce4f13f667b,42345,Footwear,ADIDAS Originals,24
-676389688531bce4f13f6736,29867,Accessories,Lino Perros,23
-67638b068531bce4f13f67dd,55454,Accessories,United Colors of Benetton,22
-67638cb88531bce4f13f6892,65431,Accessories,Carrera,21
-676390228531bce4f13f6937,26651,Accessories,United Colors of Benetton,20
-676391588531bce4f13f69c5,26238,Apparel,LOCOMOTIVE,23
-676392a78531bce4f13f6a66,32874,Apparel,Wrangler,26
-676394028531bce4f13f6b05,23456,Apparel,Mother Earth,20
-67639a1c8531bce4f13f6b98,39252,Apparel,Wrangler,22
-67639b368531bce4f13f6c27,28738,Accessories,KIARA,18
-6763a07a8531bce4f13f6ca5,23865,Footwear,ADIDAS,19
-6763b2b58531bce4f13f6d1f,29883,Apparel,United Colors of Benetton,17
-6763b3d78531bce4f13f6d96,36175,Apparel,ADIDAS Originals,17
-6763b4d78531bce4f13f6e05,36549,Accessories,Lino Perros,16
-6763b5fd8531bce4f13f6e79,40477,Apparel,Aneri,19
-6763b71b8531bce4f13f6ee3,16692,Apparel,Vishudh,17
-6763b81a8531bce4f13f6f41,101173,Accessories,ESPRIT,22
-6763ba458531bce4f13f6fd5,27038,Apparel,Basics,19
-6763bbe78531bce4f13f7070,23640,Footwear,Basics,18
-6763bd5c8531bce4f13f70f5,47561,Apparel,Wrangler,31
-6763bfde8531bce4f13f71c9,32514,Accessories,Baggit,26
-6763c1a78531bce4f13f7281,80296,Accessories,Allen Solly,34
-6763c3ba8531bce4f13f7358,44191,Apparel,Basics,35
-6763cdc08531bce4f13f7453,45500,Apparel,s.Oliver,27
-6763cf7a8531bce4f13f7509,34642,Apparel,ADIDAS,29
-6763d1428531bce4f13f75e4,35985,Apparel,Wrangler,29
-6763d8f48531bce4f13f76b5,22334,Apparel,Wrangler,18
-6763da1c8531bce4f13f773e,21979,Apparel,Puma,21
-6763dcd38531bce4f13f77d9,18300,Footwear,ADIDAS,22
-6763de568531bce4f13f7881,32091,Apparel,KIARA,26
-6763e5eb8531bce4f13f7940,36339,Apparel,Basics,30
-6763e7e88531bce4f13f7a01,37105,Apparel,LOCOMOTIVE,17
-6763e95f8531bce4f13f7a97,8953,Accessories,Peter England,17
-6763ed2f8531bce4f13f7b39,57257,Footwear,ADIDAS,19
-6763ef978531bce4f13f7bc6,37273,Footwear,United Colors of Benetton,16
-6763f20f8531bce4f13f7c3a,23100,Apparel,Wrangler,19
-6763f3358531bce4f13f7cc7,8850,Apparel,ADIDAS,10
-6763f3e18531bce4f13f7d18,128973,Accessories,ice watch,22
-6763f4ee8531bce4f13f7d92,42501,Apparel,s.Oliver,15
-6763f5e98531bce4f13f7e11,148415,Accessories,Carrera,20
-67654ed463443e90711027b2,324,Personal Care,Manchester United,2
-67662cc4d06032dfd47c25cd,39980,Accessories,ice watch,10
-67662e13d06032dfd47c2630,11790,Footwear,ADIDAS,10
-67662ec8d06032dfd47c267b,11345,Accessories,KIARA,10
-67662f69d06032dfd47c26c2,5636,Accessories,KIARA,8
-6766301ed06032dfd47c26fd,16521,Apparel,roxy,10
-676630add06032dfd47c273e,7540,Apparel,roxy,8
-67663130d06032dfd47c277d,8034,Apparel,Basics,6
-6766319ad06032dfd47c27b3,10352,Apparel,Lee,5
-676631f0d06032dfd47c27de,6388,Accessories,Quiksilver,4
-6766323dd06032dfd47c2807,8891,Apparel,s.Oliver,5
-67663305d06032dfd47c283b,10766,Apparel,s.Oliver,6
-67663455d06032dfd47c2862,7585,Apparel,ADIDAS,7
-676634bfd06032dfd47c289e,6799,Accessories,KIARA,7
-67663568d06032dfd47c28e5,14982,Apparel,Basics,10
-6766362dd06032dfd47c292d,22207,Footwear,roxy,9
-67663638d06032dfd47c2930,13373,Apparel,roxy,10
-6766364ed06032dfd47c2933,12248,Accessories,KIARA,11
-67663658d06032dfd47c2936,11630,Apparel,LOCOMOTIVE,15
-67663662d06032dfd47c2939,21384,Accessories,KIARA,21
-6766366ed06032dfd47c293c,21585,Accessories,ice watch,6
-67663e3dd06032dfd47c2b64,4231,Apparel,ADIDAS,5
-67663e4bd06032dfd47c2b69,12738,Accessories,KIARA,6
-67663e5cd06032dfd47c2b6e,10846,Accessories,KIARA,7
-67663e6ad06032dfd47c2b73,6505,Apparel,ADIDAS,8
-67663e77d06032dfd47c2b78,26303,Apparel,roxy,9
-676652edd06032dfd47c2ca3,883,Apparel,Facit,5
-67665307d06032dfd47c2ca6,1054,Apparel,Peter England,6
-67665316d06032dfd47c2ca9,6431,Accessories,KIARA,7
-67665320d06032dfd47c2cac,11513,Apparel,ADIDAS,8
-6766532ad06032dfd47c2caf,9663,Apparel,Basics,10
-67665613d06032dfd47c2dc9,4500,Accessories,ice watch,1
-67665627d06032dfd47c2dcc,14400,Accessories,GUESS,2
-67665634d06032dfd47c2dcf,3693,Apparel,Nike,3
-6766563fd06032dfd47c2dd2,3992,Apparel,FIFA,4
-6766564cd06032dfd47c2dd5,4144,Apparel,FIFA,6
-67665657d06032dfd47c2dd8,4294,Apparel,Undercolors of Benetton,6
-67665661d06032dfd47c2ddb,4243,Apparel,Domyos,7
-6766566ed06032dfd47c2dde,6697,Apparel,Mr. Men,3
-67665679d06032dfd47c2de1,5995,Accessories,United Colors of Benetton,5
-6766568fd06032dfd47c2de4,4064,Apparel,Hanes,6
-67665ccfd06032dfd47c2f69,485,Apparel,Hanes,1
-67665cd9d06032dfd47c2f6c,8394,Apparel,Nike,2
-67665ce5d06032dfd47c2f6f,3543,Apparel,Lee,3
-67665ceed06032dfd47c2f72,3546,Apparel,Lee,4
-67665cf8d06032dfd47c2f75,9179,Apparel,roxy,5
-67665d02d06032dfd47c2f78,15470,Apparel,roxy,6
-67665d0dd06032dfd47c2f7b,4347,Apparel,LOCOMOTIVE,8
-67665d16d06032dfd47c2f7e,6643,Apparel,Basics,9
-67665d21d06032dfd47c2f81,9090,Footwear,Puma,10
-67665d2cd06032dfd47c2f84,13688,Apparel,Puma,12
-676662bfd06032dfd47c3182,9995,Accessories,ice watch,1
-676662c8d06032dfd47c3185,8000,Accessories,ice watch,2
-676662d0d06032dfd47c3188,3948,Accessories,KIARA,3
-676662d9d06032dfd47c318b,14663,Accessories,ice watch,4
-676662e2d06032dfd47c318e,35690,Accessories,ice watch,5
-676662e9d06032dfd47c3191,46895,Accessories,GUESS,7
-676662f5d06032dfd47c3194,15043,Footwear,ADIDAS,9
-676662fcd06032dfd47c3197,13590,Apparel,ADIDAS,10
-67666304d06032dfd47c319a,13796,Accessories,KIARA,12
-6766630cd06032dfd47c319d,29614,Footwear,roxy,11
-6766696bd06032dfd47c33cf,519,Apparel,LOCOMOTIVE,1
-67666980d06032dfd47c33d2,1103,Apparel,LOCOMOTIVE,2
-6766698ad06032dfd47c33d5,1767,Apparel,Disney,3
-67666995d06032dfd47c33d8,13992,Footwear,Skechers,4
-676669b1d06032dfd47c33dd,11595,Footwear,Puma,5
-676669bad06032dfd47c33e0,8584,Footwear,Red Tape,4
-676669c5d06032dfd47c33e3,11192,Footwear,Red Tape,4
-676669ced06032dfd47c33e6,10678,Accessories,ice watch,5
-676669d7d06032dfd47c33e9,7244,Accessories,United Colors of Benetton,6
-676669e1d06032dfd47c33ec,12523,Footwear,Catwalk,7
-676672a9d06032dfd47c35e5,2698,Accessories,Geonaute,2
-676672b2d06032dfd47c35e8,1199,Accessories,Geonaute,1
-676672bbd06032dfd47c35eb,5597,Accessories,ADIDAS,3
-676672c3d06032dfd47c35ee,8496,Footwear,Enroute Women,4
-676672ccd06032dfd47c35f1,11795,Footwear,Genesis,5
-676672d4d06032dfd47c35f4,17371,Footwear,Genesis,7
-676672ddd06032dfd47c35f7,9489,Apparel,Genesis,7
-676672e5d06032dfd47c35fa,10992,Apparel,Genesis,8
-676672edd06032dfd47c35fd,13490,Apparel,Genesis,10
-676672f4d06032dfd47c3600,38955,Apparel,Indigo Nation,25
+6766cf1a530c52c801eeaa9f,64381,Accessories,KIARA,20
+6766da040aa320a1c5a955fb,823,Apparel,Peter England,5
+6766e37f2b8b19775c94b5a6,5394,Apparel,ADIDAS,7
+67677535b87ab1613a2b8150,43453,Apparel,roxy,31
+67677547b87ab1613a2b8155,11125,Apparel,Basics,10
+67677558b87ab1613a2b815a,77286,Apparel,s.Oliver,50
+6767756bb87ab1613a2b815f,27709,Footwear,Genesis,20
+6767757fb87ab1613a2b8164,20553,Apparel,Baggit,20
+6767758db87ab1613a2b8169,7822,Apparel,DIVA,10
+6767759bb87ab1613a2b816e,2299,Footwear,ADIDAS,1
+676783e5b87ab1613a2b85d2,750,Accessories,KIARA,1
+676783f2b87ab1613a2b85d5,2700,Accessories,KIARA,2
+676783fdb87ab1613a2b85d8,6334,Apparel,roxy,4
+67678406b87ab1613a2b85db,7783,Apparel,roxy,5
+67678410b87ab1613a2b85de,16253,Accessories,Baggit,15
+67678419b87ab1613a2b85e1,24901,Apparel,Wrangler,21
+6767842eb87ab1613a2b85e4,26350,Apparel,U.S. Polo Assn.,13
+67678438b87ab1613a2b85e7,20552,Apparel,United Colors of Benetton,18
+67678442b87ab1613a2b85ea,44121,Apparel,ADIDAS Originals,20
+676787dcb87ab1613a2b85ef,4198,Apparel,Arrow Woman,2
+6767cc5fb87ab1613a2b8a1e,2199,Apparel,Arrow Woman,1
+6767cc72b87ab1613a2b8a21,3098,Apparel,Arrow Woman,2
+6767cc7fb87ab1613a2b8a24,1617,Apparel,Hanes,3
+6767cc8ab87ab1613a2b8a27,1846,Accessories,Puma,4
+6767cc97b87ab1613a2b8a2a,9498,Personal Care,Nautica,5
+6767cca3b87ab1613a2b8a2d,10745,Apparel,Aneri,6
+6767ccaeb87ab1613a2b8a30,7543,Apparel,Aneri,7
+6767ccb9b87ab1613a2b8a33,9268,Accessories,Lino Perros,8
+6767ccc4b87ab1613a2b8a36,5136,Apparel,Doodle,10
+6767cccfb87ab1613a2b8a39,13588,Apparel,Doodle,10
+6767d9dab87ab1613a2b8b93,3599,Footwear,Reebok,1
+6767d9e3b87ab1613a2b8b96,2598,Apparel,U.S. Polo Assn.,2
+6767d9edb87ab1613a2b8b99,6439,Accessories,Lino Perros,4
+6767d9f5b87ab1613a2b8b9c,4238,Accessories,Little Miss,5
+6767d9fdb87ab1613a2b8b9f,5755,Apparel,Ant,5
+6767da05b87ab1613a2b8ba2,6901,Apparel,Peter England,7
+6767da0eb87ab1613a2b8ba5,4957,Apparel,ADIDAS,7
+6767da18b87ab1613a2b8ba8,4991,Footwear,Warner Bros,9
+6767da20b87ab1613a2b8bab,11886,Apparel,Urban Yoga,10
+6767da28b87ab1613a2b8bae,11947,Apparel,ADIDAS,13
+6767dcf4b87ab1613a2b8d1e,2295,Accessories,Fastrack,1
+6767dd22b87ab1613a2b8d26,66550,Accessories,ice watch,10
+6767dd2bb87ab1613a2b8d29,59145,Accessories,GUESS,9
+6767dd34b87ab1613a2b8d2c,80400,Accessories,GUESS,8
+6767dd3db87ab1613a2b8d2f,99625,Accessories,GUESS,12
+6767dd46b87ab1613a2b8d32,57090,Accessories,GUESS,7
+6767dd4eb87ab1613a2b8d35,24475,Accessories,CASIO,5
+6767dd5ab87ab1613a2b8d38,17680,Accessories,Nike,4
+6767dd62b87ab1613a2b8d3b,8385,Accessories,ADIDAS,3
+6767dd6bb87ab1613a2b8d3e,7785,Accessories,Fastrack,3

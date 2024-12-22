@@ -5,6 +5,7 @@ import numpy as np
 import pandas as pd
 from sklearn.calibration import LabelEncoder
 from sklearn.preprocessing import MinMaxScaler
+from flask_cors import CORS  # Import flask-cors module
 
 
 class sSMC_FCM:
@@ -101,6 +102,9 @@ model = pickle.load(open("ssmc_fcm_model.pkl", "rb"))
 
 # Khởi tạo ứng dụng Flask
 app = Flask(__name__)
+CORS(app)
+
+labeled_data = {}
 
 
 def preprocess_input_data(data):
@@ -174,6 +178,7 @@ def preProcessData(df):
 @app.route("/getOderAnalysis", methods=["POST"])
 def getOderAnalysis():
     try:
+        labeled_data.clear()
         # Lấy dữ liệu đầu vào từ request (JSON)
         data = request.get_json()
         brand_df = pd.read_csv("brand.csv")  # Brand, Level, Numeric
@@ -193,6 +198,7 @@ def getOderAnalysis():
         data.rename(columns={"Level": "most_frequent_brand"}, inplace=True)
         print(data)
         json_data = data.to_dict(orient="records")
+
         # Trả về kết quả dưới dạng JSON
         return jsonify(json_data)
 
@@ -248,19 +254,19 @@ def predict():
         )
 
         # print(summary)
-        labeled_data = {0: 0, 16: 0, 21: 1, 31: 2, 32: 2}
+
         X = preprocess_input_data(summary)
+        print(summary)
         # Gọi hàm `fit` hoặc dự đoán dựa vào model
         model.items = X
-        print("test1")
 
         model.labeled_data = labeled_data
 
-        print("test2")
         model.U = model.init_membership_matrix()
-        print("test3")
+
         model.update_membership_matrix()
-        print("test4")
+
+        model.run()
 
         predictions = model.get_results()  # Lấy nhãn dự đoán
         labels_predict = np.array(
@@ -274,7 +280,10 @@ def predict():
 
         # Chuyển mảng numpy thành danh sách với CustomerID và Prediction
         result = [
-            {"customer_id": data["customer_id"].iloc[i], "Prediction": predictions[i]}
+            {
+                "customer_id": summary["customer_id"].iloc[i],
+                "Prediction": predictions[i],
+            }
             for i in range(X.shape[0])
         ]
 
@@ -282,6 +291,52 @@ def predict():
         return jsonify(result)
 
     except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+
+label_mapping = {"New": 0, "Normal": 1, "VIP": 2}
+
+
+@app.route("/updateLabel", methods=["POST"])
+def update_label():
+    try:
+        # Lấy dữ liệu từ request JSON
+        data = request.get_json()
+        if not data:
+            return jsonify({"error": "Invalid input, no data provided"}), 400
+
+        # Lấy thông tin cần thiết
+        index = data.get("index")
+        label = data.get("label")
+        print(index)
+        # Kiểm tra dữ liệu hợp lệ
+        if index is None or label is None:
+            return jsonify({"error": "Missing 'index' or 'label' in the request"}), 400
+
+        # Ánh xạ nhãn chuỗi sang số
+        if label not in label_mapping:
+            return (
+                jsonify(
+                    {
+                        "error": f"Invalid label '{label}'. Must be one of {list(label_mapping.keys())}"
+                    }
+                ),
+                400,
+            )
+
+        mapped_label = label_mapping[label]
+
+        # Cập nhật dữ liệu vào biến labeled_data
+        labeled_data[index] = mapped_label
+        print(labeled_data)
+        # Phản hồi thành công
+        return (
+            jsonify({"message": "Label updated successfully!", "data": labeled_data}),
+            200,
+        )
+
+    except Exception as e:
+        # Xử lý lỗi
         return jsonify({"error": str(e)}), 500
 
 
